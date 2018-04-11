@@ -1,1 +1,8 @@
 This is the One-Time-Pad project
+
+------------------------------------------------------------------
+main.c is a program that creates and saves the look up tables (LUTs) to memory. 
+
+------------------------------------------------------------------
+The hardware design layer, created in the Vivado FPGA editing software, will be posted soon.
+------------------------------------------------------------------
